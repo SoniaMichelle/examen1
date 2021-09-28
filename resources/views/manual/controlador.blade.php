@@ -5,8 +5,6 @@
     <h1>Controladores</h1>
     <p class="col-sm-6 lead mb-4">Los controladores son un mecanismo que nos permite agrupar la lógica de peticiones HTTP relacionadas y de esta forma organizar mejor nuestro código.</p>
 </div>
-
-
 <div class="col mt-5" id="hero">
     <div class="row">
         <div class="col-lg-6">
@@ -79,5 +77,4 @@
         </div>
     </div>
 </div>
-
 @endsection

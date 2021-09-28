@@ -5,8 +5,6 @@
     <h1>Rutas</h1>
     <p class="col-sm-6 lead mb-4">Los Routes en Laravel son una de las capas más importante en el Framework, es un sistema de rutas que se encargan de manejar el flujo de solicitudes y respuestas, desde y hacia el cliente (como hacia el navegador, por ejemplo). Definen la dirección URL y el método por el cual se puede ingresar a dicha ruta (GET, POST, etc.)</p>
 </div>
-
-
 <div class="col mt-5" id="hero">
     <div class="row">
         <div class="col-lg-6">

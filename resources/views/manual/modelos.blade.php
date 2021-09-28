@@ -7,8 +7,6 @@
     Los modelos son uno de los componentes principales de las aplicaciones desarrolladas bajo el patrón MVC, que tienen la responsabilidad de acceder a los datos, modificarlos, etc. En el patrón además los modelos mantienen lo que se llama la lógica de negocio, que son las reglas que deben cumplirse para trabajar con los datos.
     </p>
 </div>
-
-
 <div class="col mt-5" id="hero">
     <div class="row">
         <div class="col-lg-6">
