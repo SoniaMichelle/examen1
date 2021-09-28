@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@200&display=swap');
+:root{
+    --primary: #db092c;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    min-height: 50px;
+}
+.text-primary{
+    color: var(--primary) !important;
+}
+.btn-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+    border-radius: 20px;
+}
+.btn-primary:hover{
+    background-color: #fd4160;
+    border-color: #fd4160;
+    
+}
+.content{
+    max-width: 600px;
+}
+.cover{
+    height: 400px;
+    color: white;
+    background-image: url('../img/img1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+
+}
+.heds{
+    height: 400px;
+    color: white;
+    background-image: url('../img/vista3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+
+}
+.f1{
+    height: 400px;
+    color: white;
+    background-image: url('../img/f1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+
+}
+.f2{
+    height: 400px;
+    color: white;
+    background-image: url('../img/f2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+
+}
+.f3{
+    height: 400px;
+    color: white;
+    background-image: url('../img/f3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+
+}
+.f4{
+    height: 400px;
+    color: white;
+    background-image: url('../img/f4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+
+}
+p{
+    font-family: 'Public Sans', sans-serif;
+}
+.step{
+    position: relative;
+    display: flex;
+    font-size: 22px;
+}
+#hero{
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    position: relative;
+}
